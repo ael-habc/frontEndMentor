@@ -5,7 +5,7 @@ export default function ProfileCard({handleClick}) {
        <div className="profile_card">
         <div className="profile">
             <img src={require("./images/image-jeremy.png")} alt="profile"/>
-            <h3>Report for</h3>
+            <h3>Report  for me</h3>
             <h1>Jeremy Robson</h1>
         </div>
         <div className="timeframe">
